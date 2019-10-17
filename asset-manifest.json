@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/jhonatan09/ReactJson.git/static/css/main.79018da8.chunk.css",
+    "main.js": "/jhonatan09/ReactJson.git/static/js/main.4e2997ab.chunk.js",
+    "main.js.map": "/jhonatan09/ReactJson.git/static/js/main.4e2997ab.chunk.js.map",
+    "runtime-main.js": "/jhonatan09/ReactJson.git/static/js/runtime-main.4bbbb85b.js",
+    "runtime-main.js.map": "/jhonatan09/ReactJson.git/static/js/runtime-main.4bbbb85b.js.map",
+    "static/js/2.788b741f.chunk.js": "/jhonatan09/ReactJson.git/static/js/2.788b741f.chunk.js",
+    "static/js/2.788b741f.chunk.js.map": "/jhonatan09/ReactJson.git/static/js/2.788b741f.chunk.js.map",
+    "index.html": "/jhonatan09/ReactJson.git/index.html",
+    "precache-manifest.f873070a2ca8999317426d1b46feb127.js": "/jhonatan09/ReactJson.git/precache-manifest.f873070a2ca8999317426d1b46feb127.js",
+    "service-worker.js": "/jhonatan09/ReactJson.git/service-worker.js",
+    "static/css/main.79018da8.chunk.css.map": "/jhonatan09/ReactJson.git/static/css/main.79018da8.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4bbbb85b.js",
+    "static/js/2.788b741f.chunk.js",
+    "static/css/main.79018da8.chunk.css",
+    "static/js/main.4e2997ab.chunk.js"
+  ]
+}
