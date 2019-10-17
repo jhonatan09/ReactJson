@@ -28,6 +28,13 @@ const cardInfo = [
         img: "https://images.pexels.com/photos/2693561/pexels-photo-2693561.jpeg?cs=srgb&dl=adorable-animal-photography-animals-2693561.jpg&fm=jpg",
         alt: "cat5",
         text: "Fifth card"
+    },
+
+    {
+        id: 6,
+        img: "https://images.pexels.com/photos/45201/kitty-cat-kitten-pet-45201.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        alt: "cat6",
+        text: "Sixth card"
     }
 
 ]

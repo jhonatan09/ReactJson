@@ -16,7 +16,7 @@ class Card extends React.Component{
                             {this.props.text}
                             
                             <br/>
-                            <time dateTime="2019-10-15">11:50 PM - 15 Oct 2019</time>
+                            <time dateTime="2019-10-15">11:50 AM - 17 Oct 2019</time>
                         </div>
                     </div>
                 </div>
